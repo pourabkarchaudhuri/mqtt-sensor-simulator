@@ -1,0 +1,17 @@
+{
+  "name": "sensor-data-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "2.4.1",
+    "azure-iot-device": "^1.7.1",
+    "azure-iot-device-mqtt": "^1.7.1",
+    "@azure/event-hubs": "^1.0.7"
+  },
+  "author": "Lab",
+  "license": "ISC"
+}
