@@ -14,7 +14,7 @@
 //
 // Using the Azure CLI:
 // az iot hub show-connection-string --hub-name {YourIoTHubName} --policy-name service  --output table
-var connectionString = 'HostName=iothubbridge.azure-devices.net;SharedAccessKeyName=service;SharedAccessKey=yozMUASVOKVHGmfMdOUNRi5ut7QooxbixLWGzhGLh4E=';
+var connectionString = 'KEY';
 
 // Using the Node.js SDK for Azure Event hubs:
 //   https://github.com/Azure/azure-event-hubs-node
